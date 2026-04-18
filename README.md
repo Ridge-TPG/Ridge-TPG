@@ -56,11 +56,12 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dialogflow_logo.svg" alt="Dialogflow" /></td>
+<td align="center"><img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VtFG01jQo4EoDu5OEjnaIWBWYix4IEWglw&s" alt="Dialogflow" /></td>
 <td align="center"><img width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHbhW0KUDtcjYfQFbfMJKRIeV69V1QJJfmQ&s" alt="Genesys" /></td>
 <td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" /></td>
 <td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></td>
 </tr>
+<td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" /></td>
 
 <tr>
 <td align="center"><sub>Dialogflow</sub></td>
