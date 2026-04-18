@@ -61,7 +61,9 @@
 <td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" /></td>
 <td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></td>
 </tr>
+<tr>
 <td align="center"><img width="70" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" /></td>
+</tr>
 
 <tr>
 <td align="center"><sub>Dialogflow</sub></td>
